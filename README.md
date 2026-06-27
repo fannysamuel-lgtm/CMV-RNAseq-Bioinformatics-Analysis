@@ -1,4 +1,4 @@
-# CMV-RNAseq-Bioinformatics-Analysis
+  # CMV-RNAseq-Bioinformatics-Analysis
 Integrated RNA-seq bioinformatics workflow extending wet-lab HCMV studies through differential expression, functional enrichment, STRING PPI, Cytoscape, hub gene prioritization, and MCODE analysis to uncover key molecular mechanisms, functional modules, and candidate biomarkers for placental and congenital HCMV infection.
 
 🧬 Comprehensive Bioinformatics Analysis of Human Cytomegalovirus (HCMV) Infection
@@ -91,15 +91,34 @@ This repository presents an integrated RNA-seq bioinformatics workflow investiga
 <img width="636" height="528" alt="CMV_top50_heatmap" src="https://github.com/user-attachments/assets/0c98aa92-8b01-4fe8-94f2-d1f7a42534db" />
 
 ### 🔗 STRING Protein–Protein Interaction Network
-*Description:* * Protein–protein interaction (PPI) network illustrating functional interactions among differentially expressed genes and identifying key molecular relationships.
+**Description:** Protein–protein interaction (PPI) network illustrating functional interactions among differentially expressed genes and identifying key molecular relationships.
 
 <img width="1800" height="1984" alt="CMV_STRING_PPI_network_highres" src="https://github.com/user-attachments/assets/3618457d-2393-4a78-ad81-1ed78040115c" />
 
+### 🧩 MCODE Cluster 1
+**Description:**  Highest-scoring functional module identified using the MCODE algorithm, representing a densely interconnected protein cluster with potential biological significance in HCMV infection.
 
+<img width="1047" height="350" alt="CMV_MCODE_Cluster1" src="https://github.com/user-attachments/assets/e682c023-c9c9-4e3c-9318-1540b942817b" />
 
+### 📊 GO Biological Process Enrichment
+**Description:** Bar plot showing significantly enriched biological processes associated with the differentially expressed genes, providing functional insight into HCMV infection.
 
+<img width="1058" height="450" alt="CMV_Cluster1_Enrichment_barplot png" src="https://github.com/user-attachments/assets/820982c3-5a54-4022-931a-f2c00f05fc49" />
 
+### 🚀 Future Work
 
+Drug target prediction.
+Machine learning-based biomarker discovery.
+Clinical validation in maternal–fetal infection cohorts.
 
+### ✅ Citation
 
+If you use this repository in your research, please cite the associated publication or acknowledge this GitHub repository.
 
+#### 👨‍💻Author
+
+  FANNY R 
+
+### 📄Licence
+
+  MIT Licence
